@@ -1,0 +1,36 @@
+NEXORA TECHNOLOGIES
+Customer Support Report FY2025
+
+Executive Summary
+
+Customer support activity increased during FY2025, with the highest concentration of issues occurring during Q4. The increase was particularly noticeable among enterprise customers using analytics dashboards, API integrations, and data synchronization services.
+
+Support Volume
+
+Support ticket volume increased during Q4 compared with the previous quarters. Enterprise customers accounted for a significant portion of the increase.
+
+The most frequently reported categories were API timeouts, dashboard performance problems, data synchronization failures, and integration errors.
+
+API and Integration Issues
+
+Several customers reported intermittent API timeouts during periods of high usage. Some integration failures were associated with increased request volumes and delays in downstream services.
+
+Dashboard Performance
+
+Customers using analytics dashboards reported slower response times for large datasets. Performance problems were more frequently reported by customers with high-volume deployments.
+
+Data Synchronization
+
+Some customers experienced delays in data synchronization between Nexora services and external systems. These incidents occasionally resulted in outdated information being displayed in customer dashboards.
+
+Customer Impact
+
+High-priority support incidents were associated with reduced product usage among several enterprise customers. In some cases, customers temporarily reduced deployment volume while technical issues were investigated.
+
+Recommended Actions
+
+Management recommended improving API monitoring, optimizing dashboard queries, strengthening synchronization reliability, and improving incident response procedures.
+
+Conclusion
+
+Customer support activity indicates that reliability and performance issues became more significant during Q4. Addressing API reliability, dashboard performance, and synchronization delays is important for maintaining enterprise customer usage.

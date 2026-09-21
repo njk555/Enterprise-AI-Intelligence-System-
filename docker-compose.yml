@@ -1,0 +1,19 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    container_name: enterprise-ai-postgres
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_DB: enterprise_ai
+      POSTGRES_USER: ai_admin
+      POSTGRES_PASSWORD: ai_password
+
+    ports:
+      - "5433:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+ENV/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local databases / generated data
+*.sqlite
+*.db
+
+# Model/cache files
+.cache/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+*.egg-info/

@@ -1,0 +1,76 @@
+NEXORA TECHNOLOGIES
+Q4 BUSINESS REVIEW
+Fiscal Year 2025
+
+Executive Summary
+
+Nexora Technologies experienced a decline in enterprise revenue during the final quarter of FY2025. Revenue performance weakened despite stable demand for the company's core analytics products.
+
+The decline was concentrated among several enterprise customers and was accompanied by an increase in infrastructure expenditure.
+
+Revenue Performance
+
+During the first three quarters of FY2025, enterprise order volume remained relatively stable.
+
+During Q4, average order quantities declined across several product categories.
+
+The strongest impact was observed in the Enterprise Analytics and Customer Intelligence product lines.
+
+Management identified three major contributing factors:
+
+1. Several large customers reduced their purchase volumes.
+2. Customer demand shifted toward smaller deployment sizes.
+3. Infrastructure costs increased significantly during the quarter.
+
+Customer Trends
+
+Acme Corporation reduced its deployment volume during Q4 while continuing to renew its existing agreement.
+
+Nova Healthcare maintained its overall account relationship but reduced purchases of analytics services.
+
+BluePeak Finance increased usage of the AI Intelligence Platform but reduced purchases of traditional analytics products.
+
+Vertex Retail reported performance concerns related to dashboard response times.
+
+Support Trends
+
+Customer support ticket volume increased during the second half of FY2025.
+
+The most common issues were:
+
+- API timeouts
+- Dashboard performance
+- Data synchronization
+- Integration failures
+
+High-priority support incidents were disproportionately associated with customers experiencing reduced product usage.
+
+Infrastructure Costs
+
+Cloud infrastructure expenditure increased significantly during Q4.
+
+The primary causes identified by the engineering organization were:
+
+- Increased AI model inference workloads
+- Additional data-processing workloads
+- Higher storage requirements
+- Increased monitoring infrastructure
+
+Management believes infrastructure optimization is necessary before further expansion of AI workloads.
+
+Strategic Recommendations
+
+Management recommends:
+
+1. Optimize AI inference workloads.
+2. Investigate performance issues affecting enterprise dashboards.
+3. Improve customer retention monitoring.
+4. Identify customers showing declining usage before renewal periods.
+5. Review cloud infrastructure utilization monthly.
+6. Increase investment in automated customer-health analytics.
+
+Conclusion
+
+The Q4 revenue decline should not be interpreted as a complete loss of market demand.
+
+The company continues to experience strong interest in AI-related products. However, increasing infrastructure costs and declining usage among selected enterprise customers represent important risks for FY2026.
